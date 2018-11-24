@@ -1,2 +1,2 @@
-# python-
-给第一次上手项目的人一个小思路，此项目不是本人独立开发，本人只是小搬运工
+#pythoh
+This project is very friendly to beginners. If you first contact the project, you should recommend that you knock every line of code and think about every logic carefully.
